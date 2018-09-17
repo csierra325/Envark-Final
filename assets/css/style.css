@@ -73,6 +73,27 @@ h2{
     color: black;
 }
 
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  .jumbotron {
+    height: 300px;
+    width: 300px;
+   padding: 5px;
+   text-align: center;
+   margin: 4%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+    .jumbotron {
+        height: 300px;
+        width: 600px;
+       padding: 5px;
+       text-align: center;
+       margin: 4%;
+       margin-right: 50px; 
+    }
+  }
 /* contact page */
 
 
