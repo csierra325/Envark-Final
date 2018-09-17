@@ -1,0 +1,106 @@
+
+    body, html {
+        height: 100%;
+    }
+/* home page */
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/background-black-blank-733857.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.navbar-nav{
+   margin-left: 70%; 
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    margin-top: 15%; 
+    font-family: inherit;
+    font-size: 54px;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2%;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+/* about me */
+
+.hero-image-aboutMe{
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/agriculture-alternative-background-1118154.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.jumbotron{
+    background-color: white;
+    opacity: 0.6;
+    padding: 50px;
+    height: 40%;
+    margin-top: 55%;
+    width: 60%;
+    margin-left: 22%;
+}
+.hero-text-aboutMe {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+/* contact page */
+
+
+.hero-image-contactMe{
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/agriculture-alternative-background-1118154.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.hero-text-contactMe {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.contactJumbotron{
+    background-color: white;
+    opacity: 0.6;
+    height: 100%;
+    margin-top: 55%;
+    width: 100%;
+    
+}
