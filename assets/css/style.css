@@ -55,6 +55,7 @@
     text-align: left;
 }
 
+
 h1{
     text-align: center;
     margin-top: 2%; 
@@ -203,12 +204,28 @@ th, td {
 }
 
 
+.serviceText{
+    text-align: left;
 
+}
 .services{
    
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
- 
- 
+
+}
+.boldTitle{
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+.col{
+    margin: 2%;
+}
+
+.introService{
+    margin: 2%;
+
 }
