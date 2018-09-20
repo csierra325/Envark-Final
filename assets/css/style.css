@@ -1,6 +1,6 @@
 
     body, html {
- height: 110%;
+ /* height: 10%; */
  background-image: url("./images/bluebackground.jpg");
  background-color: #cccccc; 
  background-position: center; 
@@ -51,7 +51,7 @@
 }
 
 .navbar-nav{
-   margin-left: 80%; 
+   margin-left: 75%; 
     text-align: left;
 }
 
@@ -187,6 +187,28 @@ h2{
 
 p{
     font-weight: bold;
-    margin-top: 4%;
+    /* margin-top: 2%; */
     font-size: 20px;
+}
+
+table, th, td {
+    
+    border-collapse: collapse;
+
+}
+th, td {
+    padding: 4px;
+    text-align: left;
+    margin: 4%; 
+}
+
+
+
+.services{
+   
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+ 
+ 
 }
