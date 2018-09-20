@@ -17,8 +17,8 @@
 
 .aboutMeImg {
     border-radius: 50%;
-    height: 30%;
-    width: 40%;
+    height: 250%;
+    width: 35%;
     align-content: center;
     margin: 4%;
 }
@@ -70,7 +70,7 @@ h2{
 .hero-image-aboutMe{
     
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/defaultBackground2.jpg");
-    height: 128%;
+    height: 135%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
