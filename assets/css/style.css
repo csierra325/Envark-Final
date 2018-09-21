@@ -254,6 +254,7 @@ width: 300px;
 
 
 #aboutMeJumbotron{
+    margin-top: 280%;
     height: fit-content;
 }
 .hero-image-aboutMe{
