@@ -75,7 +75,7 @@ h2{
 .hero-image-aboutMe{
     
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/defaultBackground2.jpg");
-    height: 145%;
+    height: 160%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
