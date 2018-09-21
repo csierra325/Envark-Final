@@ -238,13 +238,27 @@ th, td {
     margin-top: 20%;
 }
 .methodsJumbotron{
-    height: 650px;
+    height: 1400px;
     width: 300px;
    padding: 5px;
    text-align: center;
    margin: 2%;
    margin-top: 50%;
 
+}
+
+#bootstrap-overrideContainer{
+margin-top: 200%;
+width: 300px;
+}
+
+
+#aboutMeJumbotron{
+    height: fit-content;
+}
+.hero-image-aboutMe{
+    
+    height: 2200px;
 }
   
   }
@@ -263,4 +277,23 @@ th, td {
       .hero-text{
         margin-top: 20%;
        }
+
+
+       .methodsJumbotron{
+        height: 1400px;
+        width: 300px;
+       padding: 5px;
+       text-align: center;
+       margin: 2%;
+       margin-top: 50%;
+    
+    }
+    /* #bootstrap-overrideContainer{
+        margin-top: 200%;
+        width: 300px;
+        }
+
+        #aboutMeJumbotron{
+            height: fit-content;
+        } */
     }
