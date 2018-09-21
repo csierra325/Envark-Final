@@ -28,10 +28,10 @@
     width:120px;
     font-family: inherit;
     font-size: 20px;
-    /* margin-left: 10%; */
     font-weight: bold;
-    background: #ebf4f1;
+    background: #004472;
     border-radius: 8px;
+    color: white;
     
 }
 
@@ -226,7 +226,7 @@ th, td {
 }
 
 .col{
-    margin: 2%;
+    margin: 1%;
 }
 
 .introService{
