@@ -231,10 +231,21 @@ th, td {
       font-size: 34px;
   
     }
+    
+ 
 
-    .hero-text{
-     margin-top: 20%;
-    }
+ #bootstrap-overrides{
+    margin-top: 40%;
+}
+.methodsJumbotron{
+    height: 700px;
+    width: 300px;
+   padding: 5px;
+   text-align: center;
+   margin: 2%;
+   /* margin-top: 60%; */
+
+}
   
   }
   
