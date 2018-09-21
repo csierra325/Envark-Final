@@ -70,11 +70,7 @@ h2{
 .aboutMeJumbotron{
     background-color: white;
     opacity: 0.7;
-    /* padding: 50px; */
-   
     margin-top: 55%;
-    /* margin-bottom: 10%; */
- 
 }
 .hero-image-aboutMe{
     
@@ -95,14 +91,6 @@ h2{
     margin-bottom: 10%;
     width: 140%;
     margin-left: -20%;
-    /* background-color: white;
-    opacity: 0.8;
-    padding: 50px;
-    height: 40%;
-    margin-left: 20%;
-    margin-top: 8%;
-    align-content: center;
-    width: 60%; */
     
 }
 .hero-text-aboutMe {
@@ -115,42 +103,13 @@ h2{
 }
 
 /* On screens that are 600px or less, set the background color to olive */
-@media screen and (max-width: 600px) {
-  /* .jumbotron {
-    height: 300px;
-    width: 100px;
-   padding: 5px;
-   text-align: center;
-   margin: 2%;
-  } */
 
-  .display-4{
-    font-size: 34px;
-
-  }
-  /* .lead{
-      font-size: 20px;
-   
-  } */
-}
-
-@media screen and (max-width: 992px) {
-    .jumbotron {
-        height: 300px;
-        width: 600px;
-       padding: 5px;
-       text-align: center;
-       margin: 4%;
-       margin-right: 50px;
-        
-    }
-  }
 /* contact page */
 
 
 .hero-image-contactMe{
     
-    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/bluebackground.jpg"); */
+    
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -177,19 +136,10 @@ h2{
     height: 100%;
     margin-top: 55%;
     width: 100%;
-    
-    /* background-color: white;
-    opacity: 0.8;
-    padding: 50px;
-    height: 40%;
-    margin-left: 20%;
-    margin-top: 8%;
-    align-content: center;
-    width: 60%; */
-    
+   
 }
 
-/* services page */
+
 
 p{
  
@@ -245,20 +195,9 @@ th, td {
         width: 100%;
 }
 
-.Assessjumbotron{
-    /* background-color: white; */
-    /* opacity: 0.7;
-    padding: 50px;
-    margin-top: 70%;
-    margin-bottom: 10%;
-    width: 150%;
-    height: 50%;
-    margin-left: -20%; */
-};
 
-.container{
-    /* margin-bottom: 40%; */
-}
+
+
 
 .hero-image-services {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/background-black-blank-733857.jpg");
@@ -278,3 +217,39 @@ th, td {
     transform: translate(-50%, -50%);
     color: black;
 }
+
+@media screen and (max-width: 600px) {
+    .jumbotron {
+      height: 300px;
+      width: 100px;
+     padding: 5px;
+     text-align: center;
+     margin: 2%;
+    } 
+  
+    .display-4{
+      font-size: 34px;
+  
+    }
+
+    .hero-text{
+     margin-top: 20%;
+    }
+  
+  }
+  
+  @media screen and (max-width: 992px) {
+      .jumbotron {
+          height: 300px;
+          width: 600px;
+         padding: 5px;
+         text-align: center;
+         margin: 4%;
+         margin-right: 50px;
+          
+      }
+
+      .hero-text{
+        margin-top: 20%;
+       }
+    }
