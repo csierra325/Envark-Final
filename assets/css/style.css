@@ -248,13 +248,17 @@ th, td {
 }
 
 #bootstrap-overrideContainer{
-margin-top: 200%;
-width: 300px;
+margin-top: 20%;
+
 }
 
-
-#aboutMeJumbotron{
-    height: fit-content;
+.aboutMeJumbotron{
+    height: 1300px;
+    width: 300px;
+   padding: 5px;
+   text-align: center;
+   margin: 2%;
+   
 }
 .hero-image-aboutMe{
     
