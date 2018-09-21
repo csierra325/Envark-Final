@@ -306,6 +306,28 @@ width: 300px;
     width: 140%;
     margin-left: -20%;
 }
+#jumbotron-broker{
+    margin-bottom: 300%;
+    height: fit-content;
+    background-color: white;
+    opacity: 0.7;
+    padding: 50px;
+    height: 40%;
+    width: 140%;
+    margin-left: -20%;
+}
+
+#jumbotron-assess{
+    /* margin-bottom: 300%; */
+    height: fit-content;
+    background-color: white;
+    opacity: 0.7;
+    padding: 50px;
+    height: 40%;
+    width: 140%;
+    margin-left: -20%;  
+}
+
 
 .hero-image-services {
     height: 3000px;
