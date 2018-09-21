@@ -288,12 +288,9 @@ width: 300px;
        margin-top: 50%;
     
     }
-    /* #bootstrap-overrideContainer{
-        margin-top: 200%;
-        width: 300px;
-        }
-
-        #aboutMeJumbotron{
-            height: fit-content;
-        } */
+    
+    #bootstrap-overrideContainer{
+    /* margin-top: 60%;s */
+    
+    }
     }
