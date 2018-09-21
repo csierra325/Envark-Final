@@ -296,6 +296,17 @@ width: 300px;
     height: fit-content;
 }
 
+#jumbotron-design{
+    margin-bottom: 200%;
+    height: fit-content;
+    background-color: white;
+    opacity: 0.7;
+    padding: 50px;
+    height: 40%;
+    width: 140%;
+    margin-left: -20%;
+}
+
 .hero-image-services {
     height: 3000px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("");
