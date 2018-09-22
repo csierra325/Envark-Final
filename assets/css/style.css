@@ -45,9 +45,10 @@
 }
 
 .navbar-nav{
-   margin-left: 75%; 
+   margin-left: 70%; 
     text-align: left;
 }
+
 
 
 h1{
@@ -283,11 +284,10 @@ width: 300px;
 
 
 #aboutMeJumbotron{
-    margin-top: 280%;
+    margin-top: 500%;
     height: fit-content;
 }
 .hero-image-aboutMe{
-    
     height: 2200px;
 }
 
