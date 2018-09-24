@@ -262,6 +262,10 @@ th, td {
   
     }
     
+    #contactJumbotron{
+        margin-bottom: 400%; 
+       
+    }
  
 
  #bootstrap-overrides{
@@ -284,16 +288,19 @@ width: 300px;
 
 
 #aboutMeJumbotron{
-    margin-top: 500%;
+    margin-top: 1500px;
     height: fit-content;
 }
+
+
 .hero-image-aboutMe{
     height: 2200px;
 }
 
 #jumbotron-services{
-    margin-top: 250%;
+    /* margin-top: 100%; */
     height: fit-content;
+    
 }
 
 #jumbotron-design{
